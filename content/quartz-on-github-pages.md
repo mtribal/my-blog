@@ -6,7 +6,7 @@ draft: false
 tags:
   - quartz
   - github-pages
-  - "#obsidian"
+  - obsidian
 ---
 Once I [took the decision to start my blog](index), I had to overcome any friction to publish content without complex setups. I had decided which authoring platform to work with, [Obsidian](https://obsidian.md/). It was the time to choose a good static-site generator. After reading pro's and con's, I decided on [Quartz](https://quartz.jzhao.xyz/).
 
