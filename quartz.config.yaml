@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: mtribal.github.io/my-blog
+  baseUrl: mtribal.github.io
   ignorePatterns:
     - private
     - templates
